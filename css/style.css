@@ -1,0 +1,42 @@
+.navbar {
+  background-color: #33b5ff;
+}
+
+.quem-somos {
+  background-color: aqua;
+  font-family: sans-serif;
+}
+
+.cabecalho {
+  padding-left: 1000px;
+}
+
+.margin {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.parceiro {
+  background-color: bisque;
+  padding-bottom: 10px;
+}
+
+.text-paragrafo {
+  font-family: Verdana;
+}
+
+.service-space {
+  padding-top: 20px;
+}
+
+.servicos {
+  background-color: #ff3339;
+  font-family: Helvetica;
+  font-size: 25px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
